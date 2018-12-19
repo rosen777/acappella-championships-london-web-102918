@@ -48,3 +48,9 @@ th {
   border-width: 1px;
   border-color: grey;
 }
+
+.hidden {
+  display: none;
+  visibility: hidden;
+  clear: both;
+}

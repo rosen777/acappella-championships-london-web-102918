@@ -21,6 +21,16 @@
       }
     },
     {
+      "id": 3,
+      "name": "Amazin' Blue",
+      "membership": "mixed",
+      "college": {
+        "name": "University of Michigan",
+        "state": "MI",
+        "division": "East"
+      }
+    },
+    {
       "id": 4,
       "name": "Off the Beat",
       "membership": "mixed",
@@ -47,6 +57,16 @@
       "college": {
         "name": "Tufts University",
         "state": "MA",
+        "division": "East"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Loreleis",
+      "membership": "soprano/alto",
+      "college": {
+        "name": "University of North Carolina at Chapel Hill",
+        "state": "NC",
         "division": "East"
       }
     },
